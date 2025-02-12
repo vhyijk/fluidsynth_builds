@@ -8,6 +8,17 @@ This repository provides FluidSynth prebuilt binaries for 64-bit Windows.
 
 ## Dependencies
 
-### Tree view
+- MinGW-w64
+- GLib 2
+    1. libiconv
+    2. libintl (A subproject of GNU gettext.)
+    3. libffi
+    4. PCRE 2
+- libsndfile
+    - SQLite 3
+        - dlfcn
+- libomp
+
+### Mindmap
 
 Please install [SMM](https://github.com/wanglin2/mind-map) to view the mindmap (`.smm` files) that can be found in the Releases page.
