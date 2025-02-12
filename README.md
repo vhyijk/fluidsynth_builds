@@ -6,6 +6,8 @@ This repository provides FluidSynth prebuilt binaries for 64-bit Windows.
 
 <https://github.com/vhyijk/fluidsynth_builds/releases/latest>
 
-## Dependency tree view
+## Dependencies
+
+### Tree view
 
 Please install [SMM](https://github.com/wanglin2/mind-map) to view the mindmap (`.smm` files) that can be found in the Releases page.
