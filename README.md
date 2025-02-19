@@ -8,6 +8,7 @@ This repository provides FluidSynth prebuilt binaries for 64-bit Windows.
 
 ## Dependencies
 
+- LLVM
 - MinGW-w64
 - GLib 2
     1. libiconv
@@ -17,7 +18,6 @@ This repository provides FluidSynth prebuilt binaries for 64-bit Windows.
 - libsndfile
     - SQLite 3
         - dlfcn
-- libomp
 
 ### Mindmap
 
