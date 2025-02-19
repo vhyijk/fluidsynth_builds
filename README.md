@@ -8,9 +8,9 @@ This repository provides FluidSynth prebuilt binaries for Windows.
 
 ## Dependencies
 
-- LLVM
+- LLVM libomp
 - MinGW-w64
-- GLib 2
+- GLib
     1. libiconv
     2. gettext
     3. libffi
