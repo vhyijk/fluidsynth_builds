@@ -16,8 +16,8 @@ This repository provides FluidSynth prebuilt binaries for 64-bit Windows.
     3. libffi
     4. PCRE 2
 - libsndfile
-    - SQLite 3
-        - dlfcn
+    - SQLite
+        - dlfcn-win32
 
 ### Mindmap
 
