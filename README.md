@@ -8,16 +8,16 @@ This repository provides FluidSynth prebuilt binaries for Windows.
 
 ## Dependencies
 
-- LLVM libomp
-- MinGW-w64
-- GLib
-    1. libiconv
-    2. gettext
-    3. libffi
-    4. PCRE 2
-- libsndfile
-    - SQLite
-        - dlfcn-win32
+- [LLVM](https://llvm.org/) [libomp](https://openmp.llvm.org/)
+- [MinGW-w64](https://www.mingw-w64.org/)
+- [GLib](https://docs.gtk.org/glib/)
+    1. [libiconv](https://www.gnu.org/software/libiconv/)
+    2. [gettext](https://www.gnu.org/software/gettext/)
+    3. [libffi](https://sourceware.org/libffi/)
+    4. [PCRE](https://www.pcre.org/)
+- [libsndfile](https://libsndfile.github.io/libsndfile/)
+    - [SQLite](https://sqlite.org/)
+        - [dlfcn-win32](https://github.com/dlfcn-win32/dlfcn-win32)
 
 ### Mindmap
 
