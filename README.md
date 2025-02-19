@@ -12,7 +12,7 @@ This repository provides FluidSynth prebuilt binaries for 64-bit Windows.
 - MinGW-w64
 - GLib 2
     1. libiconv
-    2. libintl (A subproject of GNU gettext.)
+    2. gettext
     3. libffi
     4. PCRE 2
 - libsndfile
