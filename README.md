@@ -1,6 +1,6 @@
-## About this repository
+# About this repository
 
-This repository provides FluidSynth prebuilt binaries for 64-bit Windows.
+This repository provides FluidSynth prebuilt binaries for Windows.
 
 ## Latest release
 
