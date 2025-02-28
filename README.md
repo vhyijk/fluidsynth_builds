@@ -8,7 +8,8 @@ This repository provides FluidSynth prebuilt binaries for Windows.
 
 ## Dependencies
 
-- [LLVM](https://llvm.org/) [libomp](https://openmp.llvm.org/)
+- [LLVM](https://llvm.org/)
+    - [libomp](https://openmp.llvm.org/)
 - [MinGW-w64](https://www.mingw-w64.org/)
 - [GLib](https://docs.gtk.org/glib/)
     1. [libiconv](https://www.gnu.org/software/libiconv/)
